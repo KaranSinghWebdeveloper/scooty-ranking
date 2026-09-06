@@ -1,0 +1,28 @@
+{
+    "blogs": [
+        {
+            "id": "best-time-to-visit-kainchi-dham",
+            "title": "Best Time to Visit Neem Karoli Baba Ashram",
+            "date": "September 5, 2026",
+            "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=600&q=80",
+            "excerpt": "Planning a spiritual trip to Kainchi Dham? Discover the best months to visit, weather conditions, and what to expect during the famous June 15th Bhandara.",
+            "link": "#"
+        },
+        {
+            "id": "places-to-visit-near-bhowali",
+            "title": "Top 5 Places to Explore Near Bhowali on a Scooty",
+            "date": "August 28, 2026",
+            "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?auto=format&fit=crop&w=600&q=80",
+            "excerpt": "Rent a scooty and explore the hidden gems around Bhowali. From lush tea gardens to the tranquil Sattal lakes, here is your ultimate day-trip itinerary.",
+            "link": "#"
+        },
+        {
+            "id": "scooty-vs-taxi-nainital",
+            "title": "Scooty vs Taxi: Which is Better for Kainchi Dham?",
+            "date": "August 12, 2026",
+            "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=600&q=80",
+            "excerpt": "Traffic in the hills can be challenging. We break down the cost, convenience, and time saved by renting a two-wheeler compared to booking a taxi.",
+            "link": "#"
+        }
+    ]
+}
