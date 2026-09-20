@@ -1,3 +1,5 @@
 node_modules
 firebase.json
 .firebaserc
+app.js
+firebase-config.js
