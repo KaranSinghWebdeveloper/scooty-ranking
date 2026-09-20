@@ -123,7 +123,7 @@ header {
     position: relative;
     min-height: 72vh;
     background: linear-gradient(rgba(15, 23, 42, 0.78), rgba(15, 23, 42, 0.78)),
-        url('https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1600&q=85') center/cover no-repeat;
+        url('https://images.pexels.com/photos/37298953/pexels-photo-37298953.jpeg?cs=srgb&dl=pexels-hemant-singh-chauhan-639506990-37298953.jpg&fm=jpg') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;

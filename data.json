@@ -1,54 +1,67 @@
 {
   "business": {
     "name": "Kainchi Dham Scooty Rentals",
-    "phone": "+919876543210",
-    "whatsapp": "919876543210",
-    "displayPhone": "+91 98765 43210",
-    "email": "booking@kainchiscootyrentals.com",
+    "phone": "+918868955567",
+    "whatsapp": "918868955567",
+    "displayPhone": "+91 88689 55567",
+    "email": "karansinghb24@gmail.com",
     "address": "Main Market, Opposite Gate No. 2, Neem Karoli Baba Ashram, Kainchi Dham, Uttarakhand 263132",
-    "hours": "7:00 AM - 9:00 PM (All 7 Days)"
+    "hours": "7:00 AM - 9:00 PM (All 7 Days)",
+    "bannerImage": "https://assets.simplotel.com/simplotel/image/upload/x_491%2Cy_0%2Cw_2954%2Ch_2216%2Cr_0%2Cc_crop%2Cq_80%2Cfl_progressive/w_825%2Cf_auto%2Cc_fit/neemrana-hotels/kainchi-dham-2"
   },
   "scooters": [
-    {
-      "id": "activa-6g",
-      "name": "Honda Activa 6G",
-      "pricePerDay": 500,
-      "engine": "110cc",
-      "mileage": "45-50 km/l",
-      "image": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=600&q=80",
-      "features": [
-        "Smooth CVT Automatic Transmission",
-        "Puncture-resistant tubeless tyres",
-        "2 Sanitized ISI Helmets provided",
-        "Ideal for couples & solo pilgrims"
-      ]
-    },
     {
       "id": "tvs-ntorq-125",
       "name": "TVS Ntorq 125",
       "pricePerDay": 700,
       "engine": "125cc",
       "mileage": "40 km/l",
-      "image": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=600&q=80",
+      "image": "https://images.openai.com/static-rsc-4/qzP1U45xUUhwB_4ygfGcCFpfYz_GD_bL-8btnjHlCBQYjQdmUh8yF03paIzwtMtTFirVlh5PFJezkUpOpER4WY5DiTS8i3LvtV5vlNFhVnd6VWKUveIv2SD_0a9UJsyBQsYYDmdAFNYhpKVosDeYC6j_-C-31QXriSlMRL6UKwPun95DEyb5jyNuVDybs6sv?purpose=fullsize",
       "features": [
-        "High-torque 125cc uphill climbing engine",
-        "Front petal disc brake for steep mountain descent",
-        "USB mobile charging port",
-        "2 Sanitized ISI Helmets provided"
+        "Powerful 125cc engine",
+        "Automatic transmission",
+        "Good for hilly roads",
+        "Comfortable seating for 2",
+        "Tubeless tyres",
+        "2 Sanitized ISI Helmets provided",
+        "USB mobile charging",
+        "Spacious under-seat storage"
       ]
     },
     {
-      "id": "suzuki-access-125",
-      "name": "Suzuki Access 125",
-      "pricePerDay": 600,
-      "engine": "125cc",
-      "mileage": "48 km/l",
-      "image": "https://images.unsplash.com/photo-1558980394-0a06c4631733?auto=format&fit=crop&w=600&q=80",
+      "id": "honda-activa-6g",
+      "name": "Honda Activa 6G",
+      "pricePerDay": 500,
+      "engine": "110cc",
+      "mileage": "45-50 km/l",
+      "image": "https://images.openai.com/static-rsc-4/f4JvZ4doakUxG0AAiaS-3g1MFUDUe8RGZwTszs3x5o02zSjML5ZzM0NgS8Rx50QX97ZexLtrzFWlh3AAo85CmbN1EK0K6EOjDYkRNpyH8Jh7dXhYGhwBd9psq3Q9KTZxpXoGj9tc30o9NZQJQglgaxXhf0cwCZrAOcoU8MQj1sNJpq5t3BxNNIwdccdMoqDX?purpose=fullsize",
       "features": [
-        "Extra legroom & comfortable dual seating",
-        "Lightweight body, very easy to balance",
-        "Superior suspension for hill curves",
-        "2 Sanitized ISI Helmets provided"
+        "Smooth 110cc engine",
+        "Easy automatic transmission",
+        "Excellent for local sightseeing",
+        "Comfortable seating for 2",
+        "Tubeless tyres",
+        "2 Sanitized ISI Helmets provided",
+        "Easy to handle",
+        "Good fuel efficiency"
+      ]
+    },
+    {
+      "id": "electric-scooty",
+      "name": "Electric Scooty",
+      "pricePerDay": 600,
+      "engine": "Electric",
+      "mileage": "Depends on model",
+      "image": "https://images.openai.com/static-rsc-4/kpv74bsBJpm6vHn6O4N7QEq8A-v4YzcvNccHCyLKqwiqnMxzhF_2QrQT3K26Qe0vvUsExymZZMGc0Ody7iTZDMX9A5tgBhoaUmHvIVJX-MIgoJ4XiqUzB4yn54nsBGvqNTY8Yw_IqK-iTXcsNvOC_3ScRMdUqUAcWblH8H1Y2MMe7XpKRtQrG2hCmhCUr_xk?purpose=fullsize",
+      "features": [
+        "Eco-friendly electric scooter",
+        "Smooth and quiet ride",
+        "Easy automatic operation",
+        "Ideal for local Kainchi Dham travel",
+        "Comfortable seating for 2",
+        "Tubeless tyres",
+        "2 Sanitized ISI Helmets provided",
+        "Low running cost"
       ]
     }
   ]

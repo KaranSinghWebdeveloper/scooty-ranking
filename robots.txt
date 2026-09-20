@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kainchi-dham-booking.web.app/sitemap.xml
